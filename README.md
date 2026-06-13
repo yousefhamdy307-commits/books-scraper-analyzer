@@ -19,4 +19,4 @@ A tool to scrape, clean, and analyze book data from [books.toscrape.com].
 1. قم بتثبيت المكتبات المطلوبة:
    `pip install -r requirements.txt`
 2. قم بتشغيل الكود:
-   `python jop_one.py`
+   `books-scraper-analyzer`
